@@ -1,0 +1,174 @@
+body {
+    font-family: 'poppins' sans-serif;
+    background-color: rgb(175, 175, 169);
+}
+
+a{
+    text-decoration: none;
+    font-size: 1.3rem;
+}
+
+.main {
+    margin: 0;
+    margin-bottom: 20%;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 15%;
+}
+
+.img1 {
+    margin-left: 60%;
+    margin-top: -30%;
+    border-radius: 50%;
+    width: 500px;
+}
+
+.cover {
+    width: 500px;
+   color: red;
+}
+
+h1 {
+    font-size: 30px;
+    margin-left: 15%;
+    margin-top: 8%;
+}
+
+.p1 {
+    font-size: 80px;
+    margin-left: 12%;
+}
+
+.link {
+    margin-left: 5%;
+    width: 200px;
+    background: rgb(156, 148, 148);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-weight: bold;
+    border: none;
+    border-radius: 20px;
+    padding: 15px;
+   
+}
+
+button {
+    margin-left: 15%;
+    color: lightblue;
+    width: 150px;
+    background: blue;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-weight: bold;
+    border: none;
+    border-radius: 20px;
+}
+
+button:hover {
+    color: blueviolet;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+    border-radius: 15px;
+  }
+
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+    border-radius: 15px;
+  }
+
+  .fa-instagram {
+    background: #125688;
+    color: white;
+    border-radius: 15px;
+  }
+
+  .fa:hover {
+    opacity: 0.7;
+  }
+
+  .link2 {
+    font-size: 80px;
+    text-decoration: underline;
+    word-spacing: 20px;
+  }
+
+.icon {
+    margin-left: 80%;
+    margin-top: -5%;
+}
+
+.top-nav {
+    text-align: center;
+    list-style-type: none;
+    word-spacing: 5px;
+}
+
+a li {
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    justify-content: space-between;
+    text-transform: uppercase;
+    padding: 15px;
+    margin-top: 0%;
+}
+
+a:hover {
+    background-color: rgb(190, 185, 185);
+    border: none;
+    border-radius: 15px;
+}
+
+ul {
+    display: flex;
+    margin-left: 35%;
+    margin-top: -5%;
+
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.header {
+    border-bottom: 1px solid black;
+    margin-bottom: 0;
+}
+
+.progress {
+    display: flex;
+    background-color: white;
+    background-size: 500px;
+    margin-top: -10%;
+}
+
+.img2 {
+    width: 15em;
+    height: 15em;
+    object-fit: cover;
+    margin-left: 50%;
+    border-radius: 15px;
+}
+
+.content{
+    text-align: left;
+    width: 25em;
+    font-weight: bold;
+    margin-left: 50%;
+}
